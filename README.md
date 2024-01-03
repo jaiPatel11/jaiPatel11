@@ -1,3 +1,4 @@
+![logo](https://github.com/jaiPatel11/jaiPatel11/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
